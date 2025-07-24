@@ -1,6 +1,6 @@
 ## Hello !
 
-🧠 Développeur web & no-code en reconversion | Spécialisé dans l'automatisation de tâches et la création de sites sur mesure.<br>
+🧠 Développeur web & python en reconversion | Spécialisé dans l'automatisation de tâches et la création de sites sur mesure.<br>
 
 ⚙️ J'utilise Python, JavaScript, HTML/CSS, n8n et Zapier pour créer des workflows intelligents et des interfaces efficaces.<br>
 
